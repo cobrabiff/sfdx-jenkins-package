@@ -13,10 +13,10 @@
         }
     ],
     "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sfdcLoginUrl": "https://test.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "Jenkins": "0Ho0N000000CaT3SAK",
-        "Jenkins@1.0.0-1": "04t0N000001E1ksQAC"
+        "Jenkins": "0Ho3m000000TN2ICAW",
+        "Jenkins@1.0.0-1": "04t3m000000Y8ytAAC"
     }
 }
