@@ -2,8 +2,8 @@
     "orgName": "CI Example",
     "edition": "Developer",
     "settings" : {
-        "orgPreferenceSettings": {
-            "s1DesktopEnabled": true
-        }
+      "orgPreferenceSettings": {
+        "s1DesktopEnabled": true
+      }
     }
 }

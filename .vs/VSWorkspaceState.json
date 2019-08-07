@@ -1,11 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.sfdx",
+    "\\.sfdx\\orgs",
+    "\\.sfdx\\orgs\\rd@hwmg.org",
     "\\config",
     "\\force-app",
     "\\force-app\\main",
     "\\force-app\\main\\default",
     "\\force-app\\main\\default\\classes"
   ],
+  "SelectedNode": "\\.vscode",
   "PreviewInSolutionExplorer": false
 }
